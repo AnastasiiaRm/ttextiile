@@ -38,7 +38,7 @@ h1, h2, h3, h4 {
 	min-height: 820px;
 	position: relative;
 
-	background: url("../img/intro.jpg") center no-repeat;
+	background: url("../intro.jpg") center no-repeat;
 	-webkit-backgroud-size: cover;
 	background-size: cover;
 }
